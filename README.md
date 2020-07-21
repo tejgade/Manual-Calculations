@@ -1,3 +1,3 @@
 # Manual-Calculations
 
-These are manual calculation for Linear Regression, Logistic Regression, Naive Bayes and various algorithms. 
+These are manual calculation for Statistical Testings as well as algorithms such as Linear Regression, Logistic Regression, and Naive Bayes.
